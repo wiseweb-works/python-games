@@ -38,12 +38,18 @@ setuptools     X
 ```
 ## About Games
 
-There are a total of 1 game (for now) in this repository, all of them are beginner lever that will help you practice your python basics like `loops`, `if-else`, `function`, `recursion`, `list comprehension`, `random module`, `time module`, and much more.
+There are a total of 2 games in this repository, all of them are beginner lever that will help you practice your python basics like `loops`, `if-else`, `function`, `recursion`, `list comprehension`, `random module`, `time module`, and much more.
 
-### 1- Nim Game
+### 1. Nim Game
 
 ![](nim_game.webp)
 Nim is a mathematical game of strategy in which two players take turns removing (or "nimming") sticks from distinct piles. On each turn, a player must remove at least one stick, and may remove maximum of three sticks. Depending on the version being played, the goal of the game is either to avoid taking the last object or to take the last object.
+
+### 2. Tic-Tac-Toe Game
+
+![](tic_tac_toe_game.webp)
+Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
+
 
 ## Contributing
 
@@ -77,5 +83,3 @@ Project Link: [https://github.com/wiseweb-works/python-games](https://github.com
 [license-url]: https://github.com/wiseweb-works/python-games/blob/master/LICENSE.txt
 [mastodon-shield]: https://img.shields.io/badge/-mastodon-black.svg?style=for-the-badge&logo=mastodon&colorB=555
 [mastodon-url]: https://fosstodon.org/@wise
-[product-screenshot]: /static/images/webpage-screenshot.png
-[speedtest-result]: /static/images/speedtest.svg

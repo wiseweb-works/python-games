@@ -75,7 +75,7 @@ def game_sequence():
 
 
 def player_rotation(player1, player2, turn):
-    """_summary_
+    """Function to change the player turn
 
     Args:
         player1 (str): First player's name
