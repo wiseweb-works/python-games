@@ -30,6 +30,7 @@ pip install -r requirements.txt
 python3 game-name.py
 ```
 
+<!-- 
 ### Dependencies
 
 ```
@@ -38,6 +39,7 @@ Package        Version
 pip            X
 setuptools     X
 ```
+--->
 ## About Games
 
 There are a total of 3 games in this repository, all of them are beginner lever that will help you practice your python basics like `loops`, `if-else`, `function`, `recursion`, `list comprehension`, `random module`, `time module`, and much more.
