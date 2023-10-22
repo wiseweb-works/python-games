@@ -4,6 +4,8 @@
 [![MIT License][license-shield]][license-url]
 [![Mastodon][mastodon-shield]][mastodon-url]
 
+[![GitHub Super-Linter](https://github.com/wiseweb-works/python-games/actions/workflows/super-linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 # Python Games
 Collection of some starter python game projects for beginners
 
